@@ -1,0 +1,86 @@
+
+header 
+{
+    background-color:rgb(74, 38, 112);
+    color: #fff;
+    padding: 10px 0;
+ }
+
+
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color:rgb(74, 38, 112);
+    color: #fff;
+}
+
+ strong
+ {
+    color:cornflowerblue;
+ }
+
+ nav ul 
+ {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    }
+    nav li {
+    margin: 0 20px;
+    }
+    nav a {
+    text-decoration: none;
+    color: #fff;
+}
+    
+
+
+
+#projectTitle
+{
+    padding-left: 0px;
+    
+
+}
+
+h3
+{
+    color:cornflowerblue;
+    
+
+}
+h2
+{
+    color:rgb(74, 38, 112);
+    
+
+}
+h1
+{
+    color:rgb(74, 38, 112);
+    
+
+}
+
+.myImage
+{
+    padding: 20px;
+    justify-content: center;
+    border: 1px solid gray;
+
+}
+
+
+
+   
+    
